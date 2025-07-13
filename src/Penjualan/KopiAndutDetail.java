@@ -16,7 +16,7 @@ public class KopiAndutDetail extends KopiAndut {
                 return 12000;
             case "medium":
                 return 15000;
-            case "Large":
+            case "large":
                 return 17000;
             default:
                 return 0; //jika ukuran tidak valid maka harga dianggap 0
